@@ -1,5 +1,3 @@
-Haan bhai — **chatbot project ka README** ye wala tha. Main usko recreate karke de raha hoon:
-
 # LangChain Chatbot 🤖
 
 A simple chatbot built using **LangChain**, supporting both **Google Gemini** and **Ollama (Llama 2)**.
